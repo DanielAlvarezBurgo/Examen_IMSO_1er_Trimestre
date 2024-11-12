@@ -1,0 +1,12 @@
+su alum1
+cd ~
+touch listado.txt
+touch prueba.txt
+su alum2
+cd ~
+touch docum.txt
+su usuadm
+cd ~
+touch notas.txt
+mkdir compartir
+touch compartir/ejercicios.txt
